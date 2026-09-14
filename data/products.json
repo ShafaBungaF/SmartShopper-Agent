@@ -1,0 +1,74 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Smartphone A",
+    "category": "smartphone",
+    "price": 4999000,
+    "rating": 4.7,
+    "description": "Smartphone dengan performa tinggi untuk gaming, RAM 8GB, storage 128GB, dan baterai 5000mAh.",
+    "features": ["gaming", "8GB RAM", "128GB storage", "5000mAh battery"]
+  },
+  {
+    "product_id": "P002",
+    "name": "Smartphone B",
+    "category": "smartphone",
+    "price": 4299000,
+    "rating": 4.5,
+    "description": "Smartphone dengan RAM 8GB, storage 256GB, cocok untuk gaming dan penggunaan sehari-hari.",
+    "features": ["gaming", "8GB RAM", "256GB storage", "fast charging"]
+  },
+  {
+    "product_id": "P003",
+    "name": "Smartphone C",
+    "category": "smartphone",
+    "price": 5499000,
+    "rating": 4.8,
+    "description": "Smartphone premium dengan performa gaming kuat, RAM 12GB, storage 256GB, dan layar 120Hz.",
+    "features": ["gaming", "12GB RAM", "256GB storage", "120Hz display"]
+  },
+  {
+    "product_id": "P004",
+    "name": "Smartphone D",
+    "category": "smartphone",
+    "price": 3499000,
+    "rating": 4.4,
+    "description": "Smartphone ekonomis dengan RAM 8GB dan baterai besar untuk penggunaan harian.",
+    "features": ["8GB RAM", "6000mAh battery", "daily use"]
+  },
+  {
+    "product_id": "P005",
+    "name": "Laptop A",
+    "category": "laptop",
+    "price": 8999000,
+    "rating": 4.7,
+    "description": "Laptop dengan prosesor performa tinggi, RAM 16GB, cocok untuk gaming dan pekerjaan berat.",
+    "features": ["gaming", "16GB RAM", "performance", "multitasking"]
+  },
+  {
+    "product_id": "P006",
+    "name": "Laptop B",
+    "category": "laptop",
+    "price": 7499000,
+    "rating": 4.5,
+    "description": "Laptop ringan dengan RAM 16GB yang cocok untuk pekerjaan kantor, kuliah, dan multitasking.",
+    "features": ["16GB RAM", "office", "study", "lightweight"]
+  },
+  {
+    "product_id": "P007",
+    "name": "Headphone A",
+    "category": "audio",
+    "price": 1299000,
+    "rating": 4.6,
+    "description": "Headphone wireless dengan noise cancellation yang cocok untuk musik dan gaming.",
+    "features": ["wireless", "noise cancellation", "gaming", "music"]
+  },
+  {
+    "product_id": "P008",
+    "name": "Earbuds A",
+    "category": "audio",
+    "price": 799000,
+    "rating": 4.4,
+    "description": "Earbuds wireless dengan baterai tahan lama dan desain ringan untuk aktivitas sehari-hari.",
+    "features": ["wireless", "lightweight", "long battery"]
+  }
+]

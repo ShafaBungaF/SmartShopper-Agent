@@ -1,0 +1,82 @@
+[
+    {
+        "category": "shipping",
+        "question": "Berapa lama proses pengiriman?",
+        "answer": "Pesanan biasanya diproses dan dikirim dalam 1-3 hari kerja setelah pembayaran dikonfirmasi."
+    },
+    {
+        "category": "shipping",
+        "question": "Apakah saya bisa melacak pesanan?",
+        "answer": "Ya, pesanan dapat dilacak melalui nomor resi yang tersedia pada halaman detail pesanan."
+    },
+    {
+        "category": "shipping",
+        "question": "Apakah tersedia pengiriman ke seluruh Indonesia?",
+        "answer": "Pengiriman tersedia ke wilayah Indonesia yang tercakup oleh layanan ekspedisi yang digunakan."
+    },
+    {
+        "category": "purchase",
+        "question": "Bagaimana cara membeli produk?",
+        "answer": "Pilih produk yang diinginkan, tambahkan produk ke keranjang, lakukan checkout, pilih metode pembayaran, kemudian selesaikan pembayaran."
+    },
+    {
+        "category": "purchase",
+        "question": "Bagaimana cara melakukan checkout?",
+        "answer": "Untuk melakukan checkout, buka keranjang belanja, periksa produk yang dipilih, masukkan alamat pengiriman, pilih metode pembayaran, lalu konfirmasi pesanan."
+    },
+    {
+        "category": "payment",
+        "question": "Apa saja metode pembayaran yang tersedia?",
+        "answer": "Metode pembayaran dapat mencakup transfer bank, kartu pembayaran, e-wallet, dan metode lain yang tersedia pada halaman checkout."
+    },
+    {
+        "category": "payment",
+        "question": "Kapan pembayaran harus dilakukan?",
+        "answer": "Pembayaran perlu diselesaikan sesuai batas waktu yang diberikan pada halaman checkout agar pesanan dapat diproses."
+    },
+    {
+        "category": "refund",
+        "question": "Bagaimana cara mengajukan refund?",
+        "answer": "Pengajuan refund dapat dilakukan melalui halaman detail pesanan dengan memilih opsi refund dan mengikuti instruksi yang tersedia."
+    },
+    {
+        "category": "refund",
+        "question": "Berapa lama proses refund?",
+        "answer": "Waktu proses refund bergantung pada metode pembayaran dan proses verifikasi. Informasi lebih lanjut dapat dilihat pada detail pengajuan refund."
+    },
+    {
+        "category": "return",
+        "question": "Apakah produk dapat dikembalikan?",
+        "answer": "Produk dapat dikembalikan selama memenuhi ketentuan retur yang berlaku."
+    },
+    {
+        "category": "return",
+        "question": "Bagaimana cara mengajukan retur?",
+        "answer": "Pengajuan retur dapat dilakukan melalui halaman detail pesanan dengan memilih opsi retur dan mengikuti instruksi yang tersedia."
+    },
+    {
+        "category": "cancellation",
+        "question": "Bagaimana cara membatalkan pesanan?",
+        "answer": "Pesanan dapat dibatalkan melalui halaman detail pesanan selama pesanan masih memenuhi syarat untuk pembatalan."
+    },
+    {
+        "category": "order_tracking",
+        "question": "Bagaimana cara mengetahui status pesanan?",
+        "answer": "Status pesanan dapat dilihat melalui halaman detail pesanan."
+    },
+    {
+        "category": "complaint",
+        "question": "Bagaimana jika barang yang diterima rusak?",
+        "answer": "Jika barang yang diterima rusak, pengguna dapat mengajukan komplain atau retur melalui halaman detail pesanan sesuai dengan ketentuan yang berlaku."
+    },
+    {
+        "category": "voucher",
+        "question": "Bagaimana cara menggunakan voucher?",
+        "answer": "Voucher dapat digunakan dengan memasukkan atau memilih voucher yang tersedia pada saat proses checkout."
+    },
+    {
+        "category": "account",
+        "question": "Bagaimana cara mengubah alamat pengiriman?",
+        "answer": "Alamat pengiriman dapat diubah melalui pengaturan akun atau pada saat checkout jika pesanan belum diproses."
+    }
+]
